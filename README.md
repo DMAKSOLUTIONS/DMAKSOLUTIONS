@@ -1,5 +1,6 @@
 I’m @DMAKSOLUTIONS - Define Measure Analyze and Kairos 
-ERP Project Consulting Company  
+
+An ERP Project Consulting Company  
 Born out of a passion for technology and a desire to create meaningful change, 
 D MAK Solutions was founded by a team of visionary technologists who saw an opportunity to revolutionize the software industry. 
 With a collective experience spanning diverse domains, o
